@@ -4,5 +4,16 @@
   "artist": "Aka",
   "author": "chankl2",
   "cover": "https://imgur.com/XOSfM8K",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Yu Ishigami Wants to Level Up Iino",
+      "volume": "1",
+      "last_updated": "1643906328",
+      "groups": {
+        "": [
+          "https://cubari.moe/read/imgur/nctFGdT/1/1/"
+        ]
+      }
+    }
+  }
 }
