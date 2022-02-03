@@ -4,5 +4,30 @@
   "artist": "Aka",
   "author": "chankl2",
   "cover": "https://static.boredpanda.com/blog/wp-content/uploads/2017/02/perfectly-round-chinchilla-camerons-chinchillas-12-58ad536bef780__700.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Yu Ishigami Wants to Level Up Iino",
+      "volume": "1",
+      "last_updated": "1643906816",
+      "groups": {
+        "Shariton": [
+          "https://imgur.com/Oa83vFV",
+          "https://imgur.com/LMpKAUl",
+          "https://imgur.com/Eejyu6k",
+          "https://imgur.com/05oMLpa",
+          "https://imgur.com/m7dgsdb",
+          "https://imgur.com/jwUeKDW",
+          "https://imgur.com/PLF7BSV",
+          "https://imgur.com/yrtDP6q",
+          "https://imgur.com/Va7mwzJ",
+          "https://imgur.com/nhTItbb",
+          "https://imgur.com/3XSsIJ1",
+          "https://imgur.com/3wArRGq",
+          "https://imgur.com/eraTzZh",
+          "https://imgur.com/rChlqWp",
+          "https://imgur.com/q2essjg"
+        ]
+      }
+    }
+  }
 }
